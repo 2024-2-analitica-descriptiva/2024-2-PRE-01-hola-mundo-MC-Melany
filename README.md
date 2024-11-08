@@ -3,9 +3,9 @@
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-source setup.sh
+python3 -m venv .venv #Ejecitar completo
+source .venv/bin/activate # Ejecutar solo lo naranja 
+source setup.sh # Ejecutar solo lo naraja
 ```
 
 # Configuración en Windows
